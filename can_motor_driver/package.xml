@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>can_motor_driver</name>
+  <version>0.0.1</version>
+  <description>ROS 2 node for MKS CAN servo motor control</description>
+  <maintainer email="your@email.com">your_name</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>python-can</exec_depend>
+</package>

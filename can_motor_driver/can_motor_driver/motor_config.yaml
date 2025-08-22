@@ -1,0 +1,4 @@
+# Example config for can_motor_driver
+can_id: 1
+ack_id: 190
+can_interface: can0
